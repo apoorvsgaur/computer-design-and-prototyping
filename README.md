@@ -5,5 +5,6 @@
     - A thorough and detailed treatment of basic computer arithmetic algorithms, multi-cycle implementations of modern computer     instruction sets, pipelined CPU designs, design of cache hierarchy and virtual memory, and fundamentals of computer system I/O.
     - Evaluation and analysis of processor and memory performance.
 
-Information of our work in Midterm and Final Term projects
-The different stages of the processor can be seen in the branches
+Information of our work in Midterm and Final Term projects </br>
+The different stages of the processor can be seen in the branches </br>
+
